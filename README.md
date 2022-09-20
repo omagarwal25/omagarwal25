@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**omagarwal25/omagarwal25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omagarwal25)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Scouting App](https://github.com/omagarwal25/scouting-app)
+- 🌱 I’m currently learning V and Nim.
+- 👯 I’m looking to collaborate on [Scouting App](https://github.com/omagarwal25/scouting-app)
+- 🤔 I’m looking for help with FP.
+- 💬 Ask me about type systems, my gripes with js/ts, and why rust is beautiful.
+- 📫 How to reach me: lidagarwal@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Rust is cool.
+
